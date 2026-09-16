@@ -20,3 +20,7 @@ Deadline : 12:00, Oct. 5
 Goal: In this lab,you will compare three 5-second UDP iperf3 tests. You will learn how TDD slot allocation can affect downlink and uplink performance.
 delivery: put your file link here.
 Peer review : Vote the Top3 (DL: 23:59, Oct.7)
+
+Notes of todays clase
+<img width="1895" height="1022" alt="Screenshot 2026-09-17 00 15 46" src="https://github.com/user-attachments/assets/d68880a6-86be-4965-94b9-c301ef522199" />
+<img width="1895" height="1022" alt="Screenshot 2026-09-17 00 16 21" src="https://github.com/user-attachments/assets/bee5c2e2-1bdc-4e73-8166-4660ca154d07" />
